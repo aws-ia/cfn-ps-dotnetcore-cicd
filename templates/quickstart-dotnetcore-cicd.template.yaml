@@ -37,7 +37,7 @@ Parameters:
   GitHubRepositoryName:
     Type: String
     Description: Name of the GitHub repository that hosts the web application.
-    Default: quickstart-dotnetcore-cicd
+    Default: cfn-ps-dotnetcore-cicd
   GitHubBranchName:
     Type: String
     Description: Name of the GitHub branch that the CI/CD pipeline will pull from.
